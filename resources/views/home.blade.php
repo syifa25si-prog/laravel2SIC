@@ -154,7 +154,7 @@
 
             <div class="col-md-6">
 
-         <div class="card">
+     <div class="card">
     <div class="card-body">
         <h5 class="card-title">Form Pertanyaan</h5>
 
